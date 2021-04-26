@@ -16,3 +16,4 @@
 -   [Front-End Happy Hour Podcast](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
 -   [Responsive Front-End](http://bradfrost.github.io/this-is-responsive/resources.html)
 -   [Front-End Formatting](http://flexboxfroggy.com/)
+-   [Programming Quick References](https://cheatography.com/programming/)
