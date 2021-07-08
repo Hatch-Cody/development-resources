@@ -18,3 +18,4 @@
 -   [Front-End Formatting](http://flexboxfroggy.com/)
 -   [Programming Quick References](https://cheatography.com/programming/)
 -   [UX Color Theory](https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php)
+-   [tldr](https://github.com/tldr-pages/tldr-node-client)
